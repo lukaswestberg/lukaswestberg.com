@@ -12,4 +12,4 @@ I'll put my development plans in this readme as well.
 
 ### Development Plans
 
--[ ] Have it work
+- [ ] Have it work
